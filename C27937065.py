@@ -1,4 +1,4 @@
-from . conf import config
+from conf import config
 import paramiko
 import time
 import slash
